@@ -1,0 +1,2 @@
+project-name: nuxt-finance-tracker
+database-password: TymdXwOBwipQiZzv
